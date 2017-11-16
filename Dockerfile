@@ -19,6 +19,3 @@ RUN apt-get update && apt-get -y install nodejs \
 	
 # install Make	
 RUN apt-get install make
-
-# Update to docker hub
-# https://ropenscilabs.github.io/r-docker-tutorial/04-Dockerhub.html
