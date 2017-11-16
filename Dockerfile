@@ -1,4 +1,4 @@
-FROM accent/coldfusion2016
+FROM vaya/coldfusion2016
 MAINTAINER ryanstockdale
 EXPOSE 80 8500
 VOLUME ["/var/www", "/tmp/config", "/var/working"]
